@@ -28,7 +28,7 @@ Kısacası her projeye başlamadan önce yazacağınız ilk şey şu olacaktır:
     
 ## Uygulama
 
-Zombi ordumuzu yaratmaya başlamak için ZombieFactory isimli bir ana kontrat oluşturmamız isteniyor.
+Zombi ordumuzu yaratmaya başlamak için *ZombieFactory* isimli bir ana kontrat oluşturmamız isteniyor.
 
     pragma solidity >=0.5.0 <0.6.0;
     
