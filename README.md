@@ -1,2 +1,1 @@
-# CryptoZombies-Turkce
-Loom Network tarafından oluşturulan CryptoZombies adlı projeyi türkçeye çeviriyorum.
+ CryptoZombies, size Ethereum üzerinde oyun oluşturmayı öğreten ücretsiz, açık kaynaklı, etkileşimli bir kod okuludur. Kurs, Solidity'ye yeni başlayanlar için tasarlanmıştır ve temel bilgilerle başlar. Bu nedenle, daha önce Solidity ile kodlama yapmadıysanız endişelenmeyin — size adım adım yol göstermek için en ideal eğitim platformudur.
