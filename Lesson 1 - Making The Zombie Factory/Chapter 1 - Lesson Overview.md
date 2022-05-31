@@ -14,5 +14,4 @@ Zombinin görünümü kendisinin "Zombi DNA'sına" bağlı olacaktır. Bahsetti�
 >8356281049284737
 
 Tıpkı gerçek DNA gibi, bu sayının farklı kısımları farklı özelliklerle eşleşecektir. İlk 2 hane zombinin kafa tipiyle, ikinci 2 hane zombinin gözleriyle vb.
-
-![This is an image]![zombie](https://user-images.githubusercontent.com/75907428/171175043-059875a3-855f-49cc-89da-797754203411.png)
+![zombie](https://user-images.githubusercontent.com/75907428/171175043-059875a3-855f-49cc-89da-797754203411.png)
