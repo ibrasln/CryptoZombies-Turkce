@@ -26,7 +26,7 @@ Kısacası her projeye başlamadan önce yazacağınız ilk şey şu olacaktır:
     
     }
     
-##Uygulama
+## Uygulama
 
 Zombi ordumuzu yaratmaya başlamak için ZombieFactory isimli bir ana kontrat oluşturmamız isteniyor.
 
